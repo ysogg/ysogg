@@ -1,8 +1,11 @@
-<div align="center"
+<div align="center">
+   <a href="https://1000bugs.org/">1000bugs.org</a> 
+
+  
 <p>
-  <img src = https://github-readme-stats.vercel.app/api?username=ysogg&show_icons=true&hide_border=true&hide=issues&theme=calm></img>
+  <!-- <img src = https://github-readme-stats.vercel.app/api?username=ysogg&show_icons=true&hide_border=true&hide=issues&theme=calm></img> -->
   <br>
-  <p>Preview of my next project:</p>
+  <p>POTA Stats Tracker:</p>
   <img src = https://pota-stats-tracker.vercel.app/api?callsign=VA3HII />
 <!--   <a href="https://ysogg.github.io">Check out my site</a> -->
 </div>
