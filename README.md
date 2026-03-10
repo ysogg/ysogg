@@ -1,5 +1,5 @@
-<div align="center">
-   <a href="https://1000bugs.org/">1000bugs.org</a> 
+<div align="center" style="font-family: "apercu", -apple-system, system, sans-serif;">
+   <h3><a href="https://1000bugs.org/">Check out my site!</a></h3>
 
   
 <p>
