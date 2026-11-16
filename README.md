@@ -2,6 +2,7 @@
    
    <h2>MC Plugins</h2>
   <h3><a href="https://github.com/ysogg/OpenRail/">OpenRail</a></h3>
+  <h3><a href="https://github.com/ysogg/tobyscamera-english-patch/">TobysCamera Language Patch</a></h3>
   <br>
   <h2>Recent Projects</h2>
    <h3><a href="https://1000bugs.org/">1000Bugs</a></h3>
